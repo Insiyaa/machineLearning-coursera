@@ -1,9 +1,0 @@
-* SUPERVISED LEARNING
-	- Right answers given
-	- "regression" problem: Predict results within a continuous output.
-	- "classification" problem: Having discrete valued output. 1, 2, 3/ yes or no. Map input 
-variables into discrete categories.
-
-* UNSUPERVISED LEARNING
-	- Approach problems with little or no idea what our results should look like.
-	- Eg., Clustering algorithm, Cocktail Party Algorithm
