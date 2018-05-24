@@ -5,3 +5,4 @@ Week 3: Binary classification problem. Logistic regression. Sigmoidal function a
 Week 4: Introduction to Neural Networks. Layers of a neural network. Calculation of activation values of each layer. Forward Propagation. Representation of logical operators like AND, OR, XNOR, etc with simple neural network. Training multiclass classification by One-VS-All method.
 Week 5: Cost function of a neural network. Backpropagation algorithm to find gradient. Using gradient checking. Random initialization to break the symmetry.
 Week 6: Machine Learning Diagnostic. Evaluating the hypothesis. Model selection. Recognizing High bias or high variance from learning curves. Debugging depending whether there's high bias or high variance.
+Week 7: Support Vector Machine (Large Margin Classifier). Kernels. Gaussian Kernel. Selection of SVM Parameters.
